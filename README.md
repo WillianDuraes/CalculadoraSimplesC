@@ -86,13 +86,12 @@ Aqui vão algumas ideias para evoluir o projeto:
 4. 🎨 **Adicionar cores** no terminal (usando códigos ANSI).  
 5. 💾 **Salvar resultados** em um arquivo `.txt` para histórico.
 
-Sinta-se livre para modificar e melhorar o projeto.
 
 ---
 
 ## 👨🏻‍💻 Autor
 
-**Willian Durães**  
+ **Willian Durães**  
 📍 Rio de Janeiro – Brasil  
 💬 “Até no código dá pra ter fé!” ✝️  
 
